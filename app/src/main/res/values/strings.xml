@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Delivery Project</string>
+    <string name="retry">Retry</string>
+    <string name="error_no_network">Error in network connection</string>
+    <string name="cd_profile_image">Receiver profile pic</string>
+    <string name="delivery_info">%s at %s</string>
+    <string name="error_loading_failed">Loading failed due to unexpected error!</string>
+</resources>
