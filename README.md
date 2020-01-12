@@ -1,0 +1,2 @@
+# assignment-HC
+This is a recent assignment that I completed for an ongoing coding challenge. In this application I had developed a logistic based module in which delivery boy can login into application and checkout his pending deliveries for the day and navigate to destination with the help of MapView based on gps location of the destination. This app has been developed in Kotlin along with the RX java. This application contains both Unit Test and Instrumentation test where I assure full code coverage and code quality achieved.
